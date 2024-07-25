@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "text": "Dentro de las articulaciones que hemos clasificado como Anfiartrosis marca el componente característico de todas ellas:",
+    "options": [
+      "Sinovial",
+      "Fibrocartílago",
+      "Cápsula",
+      "Los elementos anteriores son parte de cualquier anfiartrosis",
+      "Todas son Falsas ya que las suturas sólo Pueden ser Sincondrosis/Sinartrosis"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "text": "Señale los Incorrecto respecto al arco Crural:",
+    "options": [
+      "Forma el límite o borde entre el abdomen y el muslo.",
+      "Es el límite superior del Triángulo de Scarpa",
+      "Deriva de la Aponeurosis del M.Oblicuo Mayor",
+      "Forma el Orificio cutáneo del Trayecto Inguinal",
+      "Todas verdaderas",
+      "Todas Falsas"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 3,
+    "text": "Indica cuál de las siguientes articulaciones NO es artrodia",
+    "options": [
+      "Articulación Tibio-Peroneas",
+      "Articulación Metatarso Falángicas",
+      "Articulación Tarso Metatarsianas",
+      "Articulación Intermetatarsianas",
+      "Todas las anteriores son Artrodias"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "text": "Cómo se llama el musculo de la pierna que no se inserta en la tibia pero se desliza por un canal en la epífisis inferior para llegar al Pie:",
+    "options": [
+      "Músculo Tibial Posterior",
+      "Músculo Tibial Anterior",
+      "Músculo Flexor común o largo de los dedos del Pie",
+      "Músculo Flexor Largo o propio del 1 Dedo",
+      "Ninguno de los anteriores",
+      "No hay tendones de la pierna por ahí"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 5,
+    "text": "Cómo denominas un plano de corte latero-lateral y de dirección Cráneo Caudal:",
+    "options": [
+      "Frontal /Coronal",
+      "Transversal",
+      "Parasagital",
+      "Sagital",
+      "Plano de corte Vertical perpendicular",
+      "Todas son Falsas"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "text": "Señale quien origina los elementos que componen el orificio Profundo o abdominal del Trayecto Inguinal:",
+    "options": [
+      "Originados por la aponeurosis del oblicuo mayor",
+      "Originados por la aponeurosis del oblicuo menor",
+      "Originados por la aponeurosis del Transverso",
+      "Originados por la Fascia Transversalis",
+      "De todas las anteriores",
+      "De Ninguno de los anteriores"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 7,
+    "text": "Al Hablar de los Músculos extensores del Muslo sobre la Pelvis el más importante es:",
+    "options": [
+      "Músculo Glúteo Mayor",
+      "Músculo Glúteo Mediano",
+      "Músculo Bíceps Crural",
+      "Músculo Semitendinoso",
+      "Músculo Semimembranoso",
+      "Ninguno"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 8,
+    "text": "Cuál de los siguientes músculos no es Biarticular:",
+    "options": [
+      "Sartorio",
+      "Recto Anterior del Muslo",
+      "Recto Interno",
+      "Semitendinoso",
+      "Todos son Biarticulares",
+      "Todos son Monoarticulares"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 9,
+    "text": "Señale lo falso sobre la fascia CRIBIFORME:",
+    "options": [
+      "Es un derivado de la Fascia Transversalis",
+      "Se relaciona con los linfáticos Inguinales",
+      "Es atravesada por la vena Safena Interna",
+      "Todas las anteriores son verdaderas",
+      "Todo es Falso"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "text": "De quien Deriva el Septum Crural:",
+    "options": [
+      "Aponeurosis del M.Oblicuo Mayor",
+      "Aponeurosis del M Oblicuo Menor",
+      "Aponeurosis del Músculo Transverso",
+      "Fascia Transversalis",
+      "Arco Crural",
+      "Todas las anteriores son correctas"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 11,
+    "text": "",
+    "options": [],
+    "correctAnswer": "D"
+  }
+]
