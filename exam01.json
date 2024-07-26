@@ -122,21 +122,21 @@
       "correctAnswer": "B",
     },
     {
-      id: 11,
-      text: "El quinto metacarplano recibe alguno/s de los tendones más internos que llegan a la mano en su apófisis estiloides:",
-      options: [
+      "id": 11,
+      "text": "El quinto metacarplano recibe alguno/s de los tendones más internos que llegan a la mano en su apófisis estiloides:",
+      "options": [
         "M. Cubital posterior.",
         " M. Palmar mayor.",
         "M. Palmar mayor y menor.",
         "Se insertan todos los anteriores (son los más internos) no me lies.",
         " No caigas en la trampa, ninguno se inserta en esa apófisis.",
       ],
-      correctAnswer: "A",
+      "correctAnswer": "A",
     },
     {
-      id: 12,
-      text: "Si te encuentras con una parálisis de los músculos interóseos de la mano, los de la eminencia hipotenar y los lumbricales más internos, qué eje neuromuscular va a estar lesionado:",
-      options: [
+      "id": 12,
+      "text": "Si te encuentras con una parálisis de los músculos interóseos de la mano, los de la eminencia hipotenar y los lumbricales más internos, qué eje neuromuscular va a estar lesionado:",
+      "options": [
         "N. Musculocutáneo.",
         "N. Mediano.",
         "N. Radial.",
@@ -144,36 +144,36 @@
         " N. Circunflejo.",
         "Son correctas A y B.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 13,
-      text: "Indica cuál de las articulaciones citadas no son diartrosis del subtipo de las artrodias:",
-      options: [
+      "id": 13,
+      "text": "Indica cuál de las articulaciones citadas no son diartrosis del subtipo de las artrodias:",
+      "options": [
         "Articulaciones metacarpianas (menos con el 1er metacarpiano).",
         "Articulaciones metacarpofalángicas.",
         "Articulaciones intermetacarpianas.",
         "Articulaciones intercarpianas en la 1ª fila.",
         "Todas las citadas son artrodias (no voy a picar).",
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
-      id: 14,
-      text: "Cuál es el músculo que tiene como eje neuromuscular al nervio musculocutáneo:",
-      options: [
+      "id": 14,
+      "text": "Cuál es el músculo que tiene como eje neuromuscular al nervio musculocutáneo:",
+      "options": [
         "M. Biceps Braquial.",
         "M. Braquial anterior.",
         "M. Coracobraquial.",
         "Todos los anteriores están inervados por él.",
         "Ninguno de los anteriores está inervado por él (no piques).",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 15,
-      text: "Marca cuál de los músculos tiene sus Inserciones proximales en epicondilo:",
-      options: [
+      "id": 15,
+      "text": "Marca cuál de los músculos tiene sus Inserciones proximales en epicondilo:",
+      "options": [
         "M. Pronador redondo.",
         "M. Palmar mayor.",
         "Flexor común superficial de los dedos.",
@@ -181,12 +181,12 @@
         "Todos son epicondileos, no hay más que verlos, llevan el epicóndilo en la frente.",
         "Ninguno se inserta en el epicóndilo.",
       ],
-      correctAnswer: "F",
+      "correctAnswer": "F",
     },
     {
-      id: 16,
-      text: "Señala cómo se llaman las caras dlafisarlas de un hueso largo como es el radio:",
-      options: [
+      "id": 16,
+      "text": "Señala cómo se llaman las caras dlafisarlas de un hueso largo como es el radio:",
+      "options": [
         "Anterior, externa e interna.",
         "Interna, externa y superior.",
         "Externa, interna y posterior.",
@@ -194,24 +194,24 @@
         "Anterior, posterior e interna.",
         "Ninguna de las anteriores es correcta.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 17,
-      text: "Marca cuántas articulaciones del subtipo de encajes recíprocos hay en un miembro superior.",
-      options: [
+      "id": 17,
+      "text": "Marca cuántas articulaciones del subtipo de encajes recíprocos hay en un miembro superior.",
+      "options": [
         "Una.",
         "Dos.",
         "Tres.",
         "Más de cuatro.",
         "No pirques, como no va a haber encajes reciprocos en el miembro superior, si fuese la cabeza puede.",
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
-      id: 18,
-      text: "Señala cuál de los siguientes músculos no forma parte de la región del hombro:",
-      options: [
+      "id": 18,
+      "text": "Señala cuál de los siguientes músculos no forma parte de la región del hombro:",
+      "options": [
         "Supraespinoso.",
         "Infraespinoso.",
         "Deltoides.",
@@ -219,12 +219,12 @@
         " Redondos mayor y menor.",
         "Todos los citados pertenecen al hombro, faltaría más.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 19,
-      text: "Ya que estamos, cuál de los músculos del hombro que conoces, puede realizar el movimiento de abducción más amplio (180 grados):",
-      options: [
+      "id": 19,
+      "text": "Ya que estamos, cuál de los músculos del hombro que conoces, puede realizar el movimiento de abducción más amplio (180 grados):",
+      "options": [
         "Supraespinoso.",
         "Infraespinoso.",
         "Deltoides.",
@@ -232,36 +232,36 @@
         "Redondos mayor y menor.",
         "Frío, frío, ninguno de los anteriores es capaz.",
       ],
-      correctAnswer: "A",
+      "correctAnswer": "A",
     },
     {
-      id: 20,
-      text: "Si hablamos del canal de torsión, qué elementos asociarías con él:",
-      options: [
+      "id": 20,
+      "text": "Si hablamos del canal de torsión, qué elementos asociarías con él:",
+      "options": [
         "El tendón cuadrilátero del pectoral mayor, que se tuerce para llegar hasta ahí.",
         "La arteria humeral profunda y el nervio radial.",
         "El nervio cubital que a ese nivel es más sensible y puede dar el calambrazo.",
         "Es el canal que separa las dos porciones del biceps braquial (vastos externo e interno).",
         "Es el otro nombre que tiene la V deltoidea.",
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
-      id: 21,
-      text: "Para llegar a la mano los tendones musculares tienen que pasar por los túneles carplanos (correderas fibrosas o ligamentos anulares) pero hay uno que se salta la norma y va por libre, dime cuál es:",
-      options: [
+      "id": 21,
+      "text": "Para llegar a la mano los tendones musculares tienen que pasar por los túneles carplanos (correderas fibrosas o ligamentos anulares) pero hay uno que se salta la norma y va por libre, dime cuál es:",
+      "options": [
         "Supinador corto.",
         "Flexor común superficial de los dedos.",
         "Palmar mayor.",
         "Palmar menor.",
         "Todos pasan.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 22,
-      text: "A propósito de las correderas, cuál es el nervio que va por una de ellas con sus tendones (como el pastor neurológico con sus ovejas):",
-      options: [
+      "id": 22,
+      "text": "A propósito de las correderas, cuál es el nervio que va por una de ellas con sus tendones (como el pastor neurológico con sus ovejas):",
+      "options": [
         "N. Circunflejo o axilar.",
         "N. Musculocutáneo.",
         "N. Radial (rama posterior).",
@@ -269,24 +269,24 @@
         "N. Cubital.",
         "Como no va a ir un nervio, por la corredera que le corresponde, todos van por correderas.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 23,
-      text: "Siguiendo con las correderas, ya que las domináls, señala el tendón muscular que va en solitario por una corredera flexora o anterior:",
-      options: [
+      "id": 23,
+      "text": "Siguiendo con las correderas, ya que las domináls, señala el tendón muscular que va en solitario por una corredera flexora o anterior:",
+      "options": [
         "M. Cubital anterior.",
         "M. Flexor común superficial de los dedos.",
         "M. Palmar mayor.",
         "M. Palmar menor.",
         "Ningún tendón baja solo, siempre con otro como mínimo, les da miedo la mano.",
       ],
-      correctAnswer: "C",
+      "correctAnswer": "C",
     },
     {
-      id: 24,
-      text: "Señala cuál de los siguientes huesos carplanos se relaciona y articula con la cara Inferior del semilunar:",
-      options: [
+      "id": 24,
+      "text": "Señala cuál de los siguientes huesos carplanos se relaciona y articula con la cara Inferior del semilunar:",
+      "options": [
         "Escafoides.",
         "Piramidal.",
         "Pisiforme.",
@@ -294,12 +294,12 @@
         "Hueso Grande.",
         "Hueso Ganchoso.",
       ],
-      correctAnswer: "E",
+      "correctAnswer": "E",
     },
     {
-      id: 25,
-      text: "Siguiendo en la osteología del carpo, señala cuál de sus huesos solo se articula con uno de sus huesos vecinos nada más:",
-      options: [
+      "id": 25,
+      "text": "Siguiendo en la osteología del carpo, señala cuál de sus huesos solo se articula con uno de sus huesos vecinos nada más:",
+      "options": [
         "Escafoides.",
         "Piramidal.",
         "Pisiforme.",
@@ -307,24 +307,24 @@
         "Hueso Grande.",
         "Hueso Ganchoso.",
       ],
-      correctAnswer: "C",
+      "correctAnswer": "C",
     },
     {
-      id: 26,
-      text: "Señala cuál de los siguientes nervios participa en la inervación de la región tenar de la mano:",
-      options: [
+      "id": 26,
+      "text": "Señala cuál de los siguientes nervios participa en la inervación de la región tenar de la mano:",
+      "options": [
         " N. Mediano.",
         "N. Radial.",
         "N. Cubital.",
         "Participan todos los anteriores.",
         "Solo participan A y B.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 27,
-      text: "Aclara cuál de los músculos que se insertan proximalmente en los huesos del antebrazo tiene estas inserciones superiores o proximales, más distales:",
-      options: [
+      "id": 27,
+      "text": "Aclara cuál de los músculos que se insertan proximalmente en los huesos del antebrazo tiene estas inserciones superiores o proximales, más distales:",
+      "options": [
         "M. Pronador redondo.",
         "N. Pronador cuadrado.",
         "M. Flexor propio del pulgar.",
@@ -332,12 +332,12 @@
         "M. Extensor propio del indice.",
         'Todos es falso total, tanto los músculos como el planteamiento de la pregunta, "qué rollo patatero"',
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
-      id: 28,
-      text: "Al hablar de la mecánica funcional de las articulaciones que unen el metacarpo con la región de los dedos, cuál de los movimientos no son capaces de realizar.",
-      options: [
+      "id": 28,
+      "text": "Al hablar de la mecánica funcional de las articulaciones que unen el metacarpo con la región de los dedos, cuál de los movimientos no son capaces de realizar.",
+      "options": [
         "Rotaciones interna y externa.",
         "Abducción y aducción.",
         "Flexión y extensión.",
@@ -345,6 +345,6 @@
         "Todos los movimientos anteriores.",
         "Todos menos la D.",
       ],
-      correctAnswer: "A",
+      "correctAnswer": "A",
     }
   ]
