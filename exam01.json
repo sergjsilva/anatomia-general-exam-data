@@ -1,7 +1,7 @@
 [    {
-      id: 1,
-      text: "El músculo triceps braquial a qué eje neuromuscular pertenece o lo controla:",
-      options: [
+      "id": 1,
+      "text": "El músculo triceps braquial a qué eje neuromuscular pertenece o lo controla:",
+      "options": [
         " N. Circunflejo o axilar. ",
         " N. Radial. ",
         "N. Musculocutáneo.",
@@ -9,12 +9,12 @@
         "N. Cubital.",
         "Ninguno de los anteriores tiene control neurológico sobre él, es un músculo independiente.",
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
-      id: 2,
-      text: "Ya que hablamos de ejes neuromusculares, señala cuál tiene el control de la región posterior del brazo:",
-      options: [
+      "id": 2,
+      "text": "Ya que hablamos de ejes neuromusculares, señala cuál tiene el control de la región posterior del brazo:",
+      "options": [
         "N. Circunflejo o axilar.",
         "N. Radial. ",
         "N. Musculocutáneo.",
@@ -22,12 +22,12 @@
         "N. Cubital.",
         "Ninguno de los anteriores, esta región está controlada directamente desde el plexo braquial del cuello.",
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
-      id: 3,
-      text: "En el vértice de la apófisis coracoides de la escápula, tan profusa en inserciones, cuál de estos tendones no se inserta:",
-      options: [
+      "id": 3,
+      "text": "En el vértice de la apófisis coracoides de la escápula, tan profusa en inserciones, cuál de estos tendones no se inserta:",
+      "options": [
         "M. Pectoral Mayor.",
         "M. Biceps, su porción larga.",
         "M. Braquial anterior.",
@@ -35,12 +35,12 @@
         "Se insertan todos los anteriores, generosa que es la apófisis coracoides, menos la D.",
         "No se inserta ninguno de los músculos citados aquí.",
       ],
-      correctAnswer: "F",
+      "correctAnswer": "F",
     },
     {
-      id: 4,
-      text: "Cuáles son en total, las caras en el escafoides que no participan en articulaciones con los huesos vecinos (como superficies articulares):",
-      options:[
+      "id": 4,
+      "text": "Cuáles son en total, las caras en el escafoides que no participan en articulaciones con los huesos vecinos (como superficies articulares):",
+      "options":[
         "Externa-Superior-Inferior-Interna.",
         "Posterior-Interna-Anterior-Externa.",
         "Externa-Posterior-Interna.",
@@ -48,18 +48,18 @@
         "Creo que en el escafoides son todas articulares menos la anterior. ",
         "Yo diría que en el escafoides son todas articulares menos la posterior y la anterior.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 5,
-      text: "Repásalas y dime cuántas dlartrosis del subtipo de las enartrosis hay en un miembro superior.",
-      options: ["Ninguna.", "Una.", "Dos.", "Tres.", "Más de tres."],
-      correctAnswer: "B",
+      "id": 5,
+      "text": "Repásalas y dime cuántas dlartrosis del subtipo de las enartrosis hay en un miembro superior.",
+      "options": ["Ninguna.", "Una.", "Dos.", "Tres.", "Más de tres."],
+      "correctAnswer": "B",
     },
     {
-      id: 6,
-      text: "Cuál de los bordes diafisarios de cúbito y radio en el antebrazo, no tiene tabique osteofibrótico o membrana Interósea separando sus compartimentos musculares:",
-      options: [
+      "id": 6,
+      "text": "Cuál de los bordes diafisarios de cúbito y radio en el antebrazo, no tiene tabique osteofibrótico o membrana Interósea separando sus compartimentos musculares:",
+      "options": [
         "Borde anterior del radio.",
         "Borde posterior del radio. ",
         "Borde interno del radio. ",
@@ -67,12 +67,12 @@
         "Borde posterior del cúbito.",
         "Borde externo del cúbito.",
       ],
-      correctAnswer: "D",
+      "correctAnswer": "D",
     },
     {
-      id: 7,
-      text: "La corredera bicipital, recibe en alguno de sus bordes las inserciones de:",
-      options: [
+      "id": 7,
+      "text": "La corredera bicipital, recibe en alguno de sus bordes las inserciones de:",
+      "options": [
         "M. Redondo menor.",
         "M. Dorsal ancho y M. redondo mayor.",
         "M. Coracobraquial.",
@@ -80,12 +80,12 @@
         "M. Braquial anterior. ",
         "Todas las respuestas son incorrectas, no hay inserciones en estos bordes.",
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
-      id: 8,
-      text: "Localiza cuál de las articulaciones no precisa de medios de adaptación o fibrocartílagos:",
-      options: [
+      "id": 8,
+      "text": "Localiza cuál de las articulaciones no precisa de medios de adaptación o fibrocartílagos:",
+      "options": [
         "Art. Exsternocosto/condroclavicular.",
         "Art. Escápulohumeral.",
         "Art. Del Codo.",
@@ -93,12 +93,12 @@
         "Art. Interfalángicas.",
         "Todas las aquí citadas tienen fibrocartílago, es necesario dada la versatilidad de la mano.",
       ],
-      correctAnswer: "C",
+      "correctAnswer": "C",
     },
     {
-      id: 9,
-      text: "El maravilloso ligamento triangular participa de alguna manera en articulaciones como las que citamos debajo:",
-      options: [
+      "id": 9,
+      "text": "El maravilloso ligamento triangular participa de alguna manera en articulaciones como las que citamos debajo:",
+      "options": [
         "Art- Radio-cubital superior.",
         "Art. Radio-cubital inferior.",
         "Cámara proximal de la muñeca.",
@@ -106,12 +106,12 @@
         "Participa en todas las anteriores (ya que es maravilloso).",
         "Solo en la B y la C.",
       ],
-      correctAnswer: "F",
+      "correctAnswer": "F",
     },
     {
-      id: 10,
-      text: "Ya que estamos de Ligamentos, con nombre propio, el ligamento de Bardinet, Indica quién es y a qué articulación pertenece:",
-      options: [
+      "id": 10,
+      "text": "Ya que estamos de Ligamentos, con nombre propio, el ligamento de Bardinet, Indica quién es y a qué articulación pertenece:",
+      "options": [
         "Fasciculo posterior del ligamento lateral externo del codo.",
         "Fasciculo posterior del ligamento lateral interno del codo.",
         "Es el otro nombre que tiene el ligamento cuadrado de Denise.",
@@ -119,7 +119,7 @@
         "Es el conjunto de los tres ligamentos de refuerzo de la cápsula en la articulación escapulo- humeral.",
         "Nada de lo anterior es correcto.",
       ],
-      correctAnswer: "B",
+      "correctAnswer": "B",
     },
     {
       id: 11,
