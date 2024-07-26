@@ -1,5 +1,4 @@
-[
-    {
+[    {
       id: 1,
       text: "El músculo triceps braquial a qué eje neuromuscular pertenece o lo controla:",
       options: [
@@ -41,7 +40,7 @@
     {
       id: 4,
       text: "Cuáles son en total, las caras en el escafoides que no participan en articulaciones con los huesos vecinos (como superficies articulares):",
-      options: [
+      options:[
         "Externa-Superior-Inferior-Interna.",
         "Posterior-Interna-Anterior-Externa.",
         "Externa-Posterior-Interna.",
