@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "text": "Cuál de las Articulaciones aquí citadas no consideras integrante del Anillo Pélvico:",
+    "options": [
+      "Art.Tibio-Peroneo-Astragalina",
+      "Art.Fémoro-Meniscal",
+      "Art. Coxo-Femoral",
+      "Todaslasanterioresloson",
+      "Ningunadelasanterioresloes"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 2,
+    "text": "Marca quien es el nervio que controla la porción corta del músculo Bíceps Crural:",
+    "options": [
+      "N.Crural",
+      "N.delBícepsBraquial",
+      "N. Obturador",
+      "N.CiáticoMayor",
+      "Nopiques,noesningunodelasanteriores(entrenosotrossetratadeln:Bicipito-Crural Porción corta)"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 3,
+    "text": "Señala de quien deriva la Pared anterior del Trayecto Inguinal:",
+    "options": [
+      "AponeurosisdelM.OblicuoMayor",
+      "AponeurosisdelM.OblicuoMenor",
+      "Aponeurosis del M. Transverso",
+      "FasciaTransversalis(Fibrasileo-pubianasdeThomson)",
+      "ArcoCrural",
+      "Todas las respuestas son correctas"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 4,
+    "text": "Ya que estamos, de quién deriva la Pared posterior del Trayecto Inguinal:",
+    "options": [
+      "AponeurosisdelM.OblicuoMayor",
+      "AponeurosisdelM.OblicuoMenor",
+      "Aponeurosis del Transverso",
+      "FasciaTransversalis",
+      "Deningunadelasanteriores",
+      "Todas las respuestas son correctas"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 5,
+    "text": "Por cuál de los bordes del Coxal sale el nervio Ciático Mayor, eje neuromuscular en elmiembro inferior:",
+    "options": [
+      "Por la Cresta Iliaca",
+      "Por el Borde Inferior",
+      "Por el Borde Antero-Superior",
+      "Por el Borde Superior",
+      "Por el Borde Póstero-Inferior",
+      "No sale por ningún borde"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 6,
+    "text": "Piénsalo un momento y dime cuál de las ramas del Nervio Crural es la más Larga:",
+    "options": [
+      "LaramaMúsculo-CutáneaExterna",
+      "LaramaMúsculo-CutáneaInterna",
+      "La rama Cuádriceps",
+      "LaramaSafenaExterna",
+      "La más larga no es ninguna de las citadas",
+      "Todas son más o menos iguales, ya que su territorio de control está en el mulso"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 7,
+    "text": "Como denominas un plano de corte Ventro-Dorsal y de dirección Cráneo-Caudal:",
+    "options": [
+      "FrontaloCoronal",
+      "Transversal(deladoalado)",
+      "Parasagital",
+      "Simplemente Sagital",
+      "Plano de corte vertical perpendicular",
+      "Todas las respuestas son falsas"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 8,
+    "text": "Como se llama el músculo de la pierna que se inserta en la tibia y en el peroné proximalmente, pero sin embargo No llega con un tendón propio al pie:",
+    "options": [
+      "M.Tibialposterior",
+      "M.Tibialanterior",
+      "M. Flexor común o largo de los dedos del pie",
+      "M.Soleo",
+      "Ningunodelosanteriores",
+      "No hay tendones de ese tipo en la pierna"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 9,
+    "text": "Marca Cual de los siguientes músculos que conoces, que NO SEA BIARTICULAR:",
+    "options": [
+      "Musc.Obturador Externo",
+      "Musc.Recto Anterior del Muslo",
+      "Musc. Recto interno (gracilis)",
+      "Musc.Semitendinoso",
+      "Todossonbiarticulares",
+      "Todos son monoarticulares (solo cruzan una artic. En su trayecto)"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 10,
+    "text": "Dentro de las articulaciones que hemos clasificado como ANFIARTROSIS, marca el componente característico de todas ellas:",
+    "options": [
+      "Sinovial",
+      "Fibrocartílago",
+      "Capsula",
+      "Loselementoscitadoshastaaquísonpartedecualquieranfiartrosisbásicadel subtipo que sea",
+      "Todas las anteriores son falsas, ya que las suturas anfiartrósicas pueden ser sinfibrosis, sincondrosis o gonfosis"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 11,
+    "text": "Dentro de los huesos que forman parte del metatarso en el pie como los clasificamos en suficha inicial:",
+    "options": [
+      "Huesos largos fundamentalmente",
+      "Huesos anchos o planos fundamentalmente",
+      "Huesos cortos fundamentalmente",
+      "Hay huesos de los tres tipos fundamentalmente",
+      "Solo hay huesos largos y cortos",
+      "No hay ahí, Colega!!!, este es un liante"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 12,
+    "text": "Como si fuera un experto en Vascularización debe cuéntame de quien procede DIRECTAMENTE (como rama terminal) la Arteria Poplítea:",
+    "options": [
+      "la Arteria Peronea",
+      "la Arteria Tibial Anterior",
+      "De la Arteria Tibial Posterior",
+      "De la Arteria Glútea",
+      "la Arteria Femoral",
+      "No Caigas en la trampa, es rama directa de Arteria Femoral Superficial"
+    ],
+    "correctAnswer": "F"
+  },
+  {
+    "id": 13,
+    "text": "Cuál de los musculo que se indican, NO tiene inserciones en el Fémur:",
+    "options": [
+      "M.Recto Interno o Gracilis",
+      "M.Crural",
+      "M. Glúteo Mayor",
+      "M.VastoInterno",
+      "M.Aductormediano",
+      "Todos tienen inserciones en el Fémur"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 14,
+    "text": "Como denominas al componente del fémur que influye en la disposición del hueso y además condiciona la rotación del resto del miembro inferior y configura la forma de caminar (hacia la abducción o aducción del pie):",
+    "options": [
+      "Angulo de inclinación del fémur",
+      "Angulo del trocánter mayor,rama externa glútea",
+      "Angulo de declinación",
+      "Angulo de reclinación",
+      "Todos es un montaje(cada uno camina como quiere, y por herencia genética “de tal palo tal astilla”)"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 15,
+    "text": "Señala lo incorrecto (FALSO) sobre el arco crural:",
+    "options": [
+      "Forma El Límite Borde Entre Abdomen Y Muslo",
+      "Es el límite superior del Triángulo de Scarpa",
+      "Deriva de la aponeurosis del M. Oblicuo Mayor",
+      "Forma el orificio cutáneo del trayecto inguinal",
+      "Todas las respuesta anteriores son verdaderas sobre arco crural",
+      "Todas son incorrectas sobre el arco crural"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 16,
+    "text": "Señala cuál de los siguientes elementos no cruzan el Anillo Crural:",
+    "options": [
+      "Nervio Crural",
+      "Arteria Femoral,continua doala Arteria Ilíaca Externa",
+      "Vena Femoral, que se continua con la Vena Ilíaca Externa",
+      "Ganglio de Cloquet",
+      "Todos los anteriores cruzan el Anillo",
+      "Cuidadito no metas la gamba, ninguno de los anteriores lo cruza"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 17,
+    "text": "Cuál es la zona de la región glútea que nunca es cruzada por el NERVIO CIATICO MAYOR y se emplea para aplicar las inyecciones intramusculares con seguridad, sin complicaciones:",
+    "options": [
+      "CuadrantesSupero-Externo",
+      "CuadrantesSupero-Interno",
+      "Cuadrante Ínfero-Externo",
+      "CuadranteÍnfero-Interno",
+      "Este nervio no pasa por la región glútea"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "text": "Señala cuál de los siguientes elementos es el más SUPERFICIAL dentro del contenido del HUECO POPLÍTEO",
+    "options": [
+      "Vena Safena Externa",
+      "Arteria Poplítea",
+      "Vena Poplítea",
+      "Ligamento Posterior de la Rodilla",
+      "Nervio Ciático Poplíteo Interno"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 19,
+    "text": "Señala cuál de los siguientes elementos es el más POSTERIOR dentro del contenido del HUECO POPLÍTEO",
+    "options": [
+      "Vena Safena Externa",
+      "Arteria Poplítea",
+      "Vena Poplítea",
+      "Ligamento Posterior de la Rodilla",
+      "Nervio Ciático Poplíteo Interno"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "text": "Al hablar de los músculos FLEXIORES DEL MULSO sobre la pelvis (o de la pelvis sobre el muslo), señala cual es el MAS importante o principal:",
+    "options": [
+      "M.Glúteo Mayor",
+      "M.PsoasIliaco",
+      "M. Obturador Externo",
+      "M. Piramidal de la Pelvis",
+      "M. Recto Anterior Mayor del Abdomen",
+      "Ninguno de ellas es flexor del mulso sobre la pelvis y viceversa"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 21,
+    "text": "21. Donde puedes localizar el orificio que es accesible y puedes llegar a explorar e introducir el dedo en el TRAYECTO INGUINAL:",
+    "options": [
+      "A través del esfínter anal del perineo o suelo pélvico(orificioAnal)",
+      "En el Anillo Crural",
+      "Es el orificio profundo o abdominal del trayecto inguinal",
+      "Es el orificio superficial o cutáneo del trayecto inguinal",
+      "Es el orificio Umbilical que está cerrado desde los primeros meses de vida,pero permite apreciar “sensaciones” y pelotillas",
+      "Meter el dedo ¿dónde? Uff que chorrada, seamos serios"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 22,
+    "text": "Si encuentras hinchazón en los ganglios linfáticos inguinales superficiales del grupo supero-interno, donde debes buscar zonas de la lesión preferentemente:",
+    "options": [
+      "En Mulso",
+      "En zona Genital",
+      "En la zona Glútea Externa",
+      "EN pierna y pie(territorio safeno interno)",
+      "EN cualquier delos anteriores"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "text": "Cuántas artic. Del tipo de las DIARTROSIS del subtipo de las ENARTROSIS encuentras en UN SOLO miembro inferior:",
+    "options": ["Ninguna", "Una", "Dos", "Cuatros", "Cinco"],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "text": "Señala cuál de los siguientes nervios es el que NO cruza, en su descenso por el miembro inferior, el interior del hueco poplíteo:",
+    "options": [
+      "N.Ciático Mayor",
+      "N.Ciático Poplíteo Externo",
+      "N. Ciático Menor",
+      "N.Ciático Poplíteo Interno",
+      "Ninguno de los anteriores"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 25,
+    "text": "Cual de estos ejes neuromuscular controla da Región Interna del Mulso:",
+    "options": [
+      "N.Ciático Mayor",
+      "N.Crural",
+      "N. Plantar del mulso",
+      "N.Obturador",
+      "Ninguno de los Anteriores"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 26,
+    "text": "Cuáles son las caras que configuran la diáfisis de la TIBIA:",
+    "options": [
+      "Externa-Anterior-Posterior",
+      "Posterior-Interna-Anterior",
+      "Externa-Posterior-Interna",
+      "Anterior-Externa-Interna",
+      "Interna-Anterior-Superior"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "text": "Señala cuál de los Huesos CUNEIFORMES presente mayor número de superficies articulares:",
+    "options": [
+      "1a Cuña",
+      "2a Cuña",
+      "3a Cuña",
+      "Todas las cuñas presentan como es lógico el mismo número",
+      "Las Cuñas no tienen articulaciones móviles, solo se tocan con los vecinos"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 28,
+    "text": "El borde externo del Peroné presenta un tabique osteofibrótico que separa dos regiones o compartimentos musculares en pierna:",
+    "options": [
+      "La región Externa de la región Anterior de la pierna",
+      "La región Anterior de la región Interna de la pierna",
+      "La región Posterior de la región Externa de la pierna",
+      "La región Anterior de la región Posterior de la pierna",
+      "La región Externa de la región Posterior de la pierna",
+      "No hay Tabique osteofibrótico en este borde, es subcutáneo"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "text": "Cuál es el tipo de movimientos que dentro del conjunto biarticular (por ser bicameral) de la Rodilla NO SE PUEDE realizar:",
+    "options": [
+      "Flexión-Extensión",
+      "Abducción-Aducción",
+      "Rotación Interna y Rotación Externa",
+      "Realiza todos los anteriores y alguno mas",
+      "Todas las respuestas son incorrectas"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 30,
+    "text": "Indica cuál de las articulaciones cuál de las articulaciones citadas NO SON ARTRODIAS:",
+    "options": [
+      "Arts.Tibio-Peronea",
+      "Arts.Metatarso-Falángicas",
+      "Arts. Tarso-Metatarsianas",
+      "Arts. Intermetatarsianas",
+      "Todas las citadas son artrodias"
+    ],
+    "correctAnswer": "B"
+  }
+]
