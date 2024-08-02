@@ -128,8 +128,486 @@
   },
   {
     "id": 11,
-    "text": "",
-    "options": [],
+    "text": "Cuál de los siguientes Músculos NO tiene Inserciones en el Coxal:",
+    "options": [
+      "Recto anterior del Muslo",
+      "Crural",
+      "Glúteo Mayor",
+      "Sartorio",
+      "Aductor mediano",
+      "A/B"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "text": "Cómo denominas el componente del fémur que influye en la disposición del hueso además condiciona la rotación del resto del miembro inferior y configura la forma de caminar:",
+    "options": [
+      "Ángulo de inclinación del Fémur",
+      "Ángulo del Trocánter Mayor (Rama externa Glútea)",
+      "Ángulo del Pubis",
+      "Ángulo de Declinación",
+      "Ángulo de Reclinación",
+      "Todas falsas"
+    ],
     "correctAnswer": "D"
+  },
+  {
+    "id": 13,
+    "text": " Cuál de las articulaciones aquí citadas no es considerada integrante del anillo Pélvico:",
+    "options": [
+      "Sacro Iliaca",
+      "Sínfisis del Pubis",
+      "Coxo-femoral",
+      "Todas las anteriores lo son",
+      "Todas Falsas"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 14,
+    "text": "El borde externo del Peroné presenta un tabique osteofibroso que separa dos regiones o compartimentos musculares:",
+    "options": [
+      "Región Externa/Anterior",
+      "Región Anterior/Interna",
+      "Región Posterior /Externa",
+      "Región Anterior/Posterior"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 15,
+    "text": "Cuál es la Zona de la Región Glútea que nunca es cruzada por el nervio Ciático Mayor y que se emplea para administrar inyecciones intramusculares sin complicaciones:",
+    "options": [
+      "Súpero externo",
+      "Supero interno",
+      "Infero externo",
+      "Infero Interno",
+      "Este Nervio no pasa por la región Glútea"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 16,
+    "text": "Cuál de los siguientes elementos es el más superficial dentro del hueco Poplíteo:",
+    "options": [
+      "Vena Safena externa",
+      "Arteria Poplítea",
+      "Vena Poplítea",
+      "Ligamento Posterior de la Rodilla",
+      "Nervio Ciático poplíteo Interno"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 17,
+    "text": "Cuál de los siguientes Cuadrantes en el que se dividen las paredes anterolaterales abdominales es Bilateral:",
+    "options": [
+      "Hipocondrio",
+      "Epigastrio",
+      "Mesogastrio",
+      "Hipogastrio",
+      "Todas",
+      "Ningunas"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "text": "Cuál es el tipo de Movimientos que dentro del Conjunto biarticular de la Rodilla no se puede hacer:",
+    "options": [
+      "Flexión -Extensión",
+      "Abduccion -Aduccion",
+      "Rotación Interna y externa",
+      "Realiza todos los movimientos anteriores",
+      "Todas incorrectas"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 19,
+    "text": "Por cual de los bordes del Coxal sale el nervio Ciático Mayor:",
+    "options": [
+      "La cresta Iliaca",
+      "Borde Inferior",
+      "Borde Antero-Superior",
+      "Borde Superior",
+      "Postero-Inferior",
+      "No sale por ningún Borde"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 20,
+    "text": "Cuál de las Ramas del Nervio Crural es la más larga (Sea Sensitiva motora o Mixta)",
+    "options": [
+      "Rama Músculo Cutánea Externa",
+      "Rama Músculo Cutánea Interna",
+      "Rama del Cuádriceps",
+      "Rama de la Safena Externa",
+      "Ninguna, es la safena interna",
+      "Todas son más o menos Iguales"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 21,
+    "text": "Cuántas articulaciones de Tipo Diartrosis del tipo encaje recíproco Perfecto hay en Miembro Inferior:",
+    "options": ["Ninguna", "1 CALCÁNEO-CALCANINA", "2", "4", "5"],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 22,
+    "text": "Señala cuál de los siguientes nervios cruza el interior del hueco Poplíteo:",
+    "options": [
+      "Ciático Mayor",
+      "Ciático Poplíteo Externo",
+      "Ciático Menor",
+      "Ciático Poplíteo Interno",
+      "Ninguno de los anteriores"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 23,
+    "text": "Cuál de estos ejes neuromusculares controla la región interna del muslo",
+    "options": [
+      "Nervio Ciático Mayor",
+      "Nervio Crural",
+      "Nervio Abductor del Muslo",
+      "Nervio Obturador",
+      "Ninguno"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 24,
+    "text": "Cuáles son las cara que configuran la diáfisis peronea",
+    "options": [
+      "Ext/Ant/Post",
+      "Post/Int/Ant",
+      "Ext/Post/Int",
+      "Ant/Ext/Int",
+      "Int/Ant/Sup"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 25,
+    "text": "Cuál de los siguientes Huesos Cuneiformes presenta mayor número de superficies articulares:",
+    "options": [
+      "1 Cuña",
+      "2 Cuña",
+      "3 Cuña",
+      "Todas las cuñas presentan el mismo número",
+      "Las cuñas no tienen articulaciones Móviles"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 26,
+    "text": "Donde puedes localizar el orificio donde puedes introducir el dedo en la región inguinal:",
+    "options": [
+      "Es el esfínter anal del perineo o suelo pélvico",
+      "En el anillo Crural",
+      "Es el orificio profundo o abdominal del Trayecto Inguinal",
+      "Es el orificio superficial o cutáneo del Trayecto Inguinal",
+      "Es el orificio Externo de la Uretra",
+      "Ninguna"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 27,
+    "text": "Si encuentras un hinchazón en los Ganglios linfáticos inguinales superficiales del Grupo Supero Interno,la lesiones tienes que buscarla en:",
+    "options": [
+      "En el Muslo",
+      "En la Zona Genital",
+      "En la Zona Glútea Externa",
+      "en pierna y pie",
+      "En cualquiera de las anteriores"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "text": "Marca quien es el Nervio que contra la Porción corta del M.Bíceps Crural:",
+    "options": [
+      "Cual",
+      "Genitocrural",
+      "Obturador",
+      "Ciático Mayor",
+      "Ninguno de los anteriores"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 29,
+    "text": "De quien procede directamente la arteria plantar Externa:",
+    "options": [
+      "Art peronea",
+      "Art Tibial Posterior",
+      "Art Tibial Anterior",
+      "De la arteria Pedia",
+      "ES Rama directa de la Art femoral Común",
+      "Art Poplítea"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 30,
+    "text": "Donde localizas el Septum Crural:",
+    "options": [
+      "Arco crural",
+      "Anillo Crural",
+      "Cuadrado Crural",
+      "Ag Obturador",
+      "En el Borde Posteroinferior del Coxal",
+      "Ninguna"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 31,
+    "text": "De los siguientes Músculos Biarticulares del Muslo realiza flexión de la art Superior/Inferior:",
+    "options": [
+      "Sartorio",
+      "Adductor mediano",
+      "Semitendinoso",
+      "Psoas Iliaco",
+      "Ninguno"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 32,
+    "text": "Cuál de las Caras Citas aquí del astrágalo no tiene carillas articulares:",
+    "options": [
+      "Anterior",
+      "Inferior",
+      "Posterior",
+      "Superior",
+      "Interna",
+      "Externa"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 33,
+    "text": "En el Triángulo de Scarpa cual de los elementos forma la parte más externa del Suelo:",
+    "options": [
+      "Sartorio",
+      "Psoas Ilíaco",
+      "Aductor Mediano",
+      "Pectíneo",
+      "Ninguno"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "text": "Señale cuál de los siguientes elementos es el más posterior dentro del contenido del hueco Poplíteo:",
+    "options": [
+      "Vena Safena externa",
+      "Arteria Poplítea",
+      "Vena Poplítea",
+      "Ligamento Posterior de la Rodilla",
+      "Nervio ciático poplíteo Externo"
+    ],
+    "correctAnswer": "A"
+  },
+  {
+    "id": 35,
+    "text": "Cuál de los siguientes músculos no forma parte de la Prensa Abdominal:",
+    "options": [
+      "Oblicuo mayor",
+      "Recto anterior Mayor del muslo",
+      "Oblicuo menor",
+      "Transverso",
+      "Todas las anteriores",
+      "Ninguna"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 36,
+    "text": "36) Cuál de los músculos citados que pertenecen a la región del muslo termina en el tubérculo tibial Anterior (Tubérculo de Gerdy)",
+    "options": [
+      "Pectíneo",
+      "Recto Interno",
+      "Sartorio",
+      "Tibial Anterior",
+      "Tensor de la Fascia Lata",
+      "Ninguno"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 37,
+    "text": "Cuál de los siguientes elementos ayudan a configurar la vaina de envoltura del RAMA (Recto anterior mayor del abdomen) se encuentra en alguna parte solo:",
+    "options": [
+      "Aponeurosis del Oblicuo Mayor",
+      "Aponeurosis del Oblicuo Menor",
+      "Aponeurosis del Transverso",
+      "Fascia Transversalis",
+      "Nunca hay un solo elemento solo"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 38,
+    "text": "De cuál de los siguientes músculos Biarticulares del muslo cual realiza extensión de la Articulación superior y flexión de la articulación Inferior:",
+    "options": [
+      "Sartorio",
+      "Adductor Mediano",
+      "Semitendinoso",
+      "Psoas Iliaco",
+      "Ninguno de los anterior"
+    ],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 39,
+    "text": "Cuál es la Región Glútea que nunca es cruzada por el Nervio Obturador y se emplea para aplicar Inyecciones Intramusculares:",
+    "options": [
+      "Cuadrante Supero Externo",
+      "Cuadrante Supero Interno",
+      "Cuadrante Infero Externo",
+      "Cuadrante infero interno",
+      "Este Nervio no pasa por la Región Glútea"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 40,
+    "text": "Cuál de las siguientes carillas óseas no ofrece una superficie articular:",
+    "options": [
+      "Cara Posterior del Calcáneo",
+      "Cara Cutánea del Cóndilo Externo- Femoral",
+      "Cara Superior del Cóndilo interno femoral",
+      "Cara externa del hueso cuboides",
+      "Todas presentan carillas articulares",
+      "Ninguna ofrece superficie articular"
+    ],
+    "correctAnswer": "F"
+  },
+  {
+    "id": 41,
+    "text": "Las epífisis pueden aparecer en:",
+    "options": [
+      "En todos los huesos del Esqueleto",
+      "Sólo en los huesos largos y anchos además de Planos",
+      "Sólo en los huesos tanto anchos como largos",
+      "Sólo en los huesos Anchos",
+      "Sólo en los Huesos Largos",
+      "Sólo en los huesos cortos"
+    ],
+    "correctAnswer": "E"
+  },
+  {
+    "id": 42,
+    "text": "Dentro de los orificios o hiatos del músculo diafragma señala cual es el mas Posterior:",
+    "options": [
+      "Hiato de la vena Cava Superior",
+      "Hiato de la Vena Cava Inferior",
+      "Hiato Esofágico",
+      "Hiato de la arteria aorta",
+      "Ninguno de los anteriores"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 43,
+    "text": "El Término Ventral anatómicamente significa:",
+    "options": [
+      "Proximal",
+      "Craneal",
+      "Dorsal",
+      "Anterior",
+      "Posterior",
+      "Ninguno"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 44,
+    "text": "Cuál de los siguientes nervios cruza el interior del Hueco Poplíteo:",
+    "options": [
+      "Ciático Mayor",
+      "Ciático Poplíteo Externo",
+      "Ciático Menor",
+      "Ciático Poplíteo Interno",
+      "Ninguno"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 45,
+    "text": "Cuál de los siguientes elementos NO forma parte del Contenido del Anillo Crural:",
+    "options": [
+      "Arteria Femoral Común",
+      "Nervio Crural",
+      "Vena Femoral",
+      "Ganglio de Cloquet",
+      "Todos los anteriores",
+      "Ninguna"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 46,
+    "text": "Cuál de los elementos que se citan es el que configura la denominada porción Yuxta Media de la Vaina del Recto anterior Mayor del Abdomen:",
+    "options": [
+      "Aponeurosis del Oblicuo Mayor",
+      "Aponeurosis del Oblicuo Menor",
+      "Aponeurosis del Transverso",
+      "Fascia Transversalis",
+      "Fascia Cribiforme"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "text": "El número de huesos que constituyen el tarso:",
+    "options": ["9", "6", "7", "5", "Son 2 cada fila"],
+    "correctAnswer": "C"
+  },
+  {
+    "id": 48,
+    "text": "Cuál de los componentes musculares del Cuádriceps cruza 2 articulaciones en su Recorrido:",
+    "options": [
+      "Músculo Vasto Interno",
+      "Músculo Recto Anterior del Muslo",
+      "Músculo Crural",
+      "Vasto Externo",
+      "Ninguno"
+    ],
+    "correctAnswer": "B"
+  },
+  {
+    "id": 49,
+    "text": "Cuál de los siguientes músculos destinados al pie llega a insertarse en las Falanges:",
+    "options": [
+      "Tibial Anterior",
+      "Peroneo Lateral Largo",
+      "Tibial Posterior",
+      "Extensor Propio del 1 Dedo",
+      "Todos llegan a las Falanges",
+      "Ninguno llega"
+    ],
+    "correctAnswer": "D"
+  },
+  {
+    "id": 50,
+    "text": "Señala cuál de las siguientes articulaciones es una Enartrosis:",
+    "options": [
+      "Astrágalo Calcáneo escafoidea",
+      "Sínfisis del Pubis",
+      "Femoromeniscal de la Rodilla",
+      "Tibio Peronea interna",
+      "Tibio Peronea Astragalina",
+      "Ninguna"
+    ],
+    "correctAnswer": "A"
   }
 ]
